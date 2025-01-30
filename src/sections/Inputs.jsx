@@ -1,7 +1,7 @@
 export const Inputs = () => {
   return (
-    <div>
-      inputs
-    </div>
+    <aside>
+      asd
+    </aside>
   )
 }
