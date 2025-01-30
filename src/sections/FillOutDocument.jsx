@@ -1,6 +1,6 @@
 export const FillOutDocument = () => {
   return (
-    <article className="w-[50%]">
+    <article className="w-full">
       <h3 className="text-center text-xl font-black">CONTRATO DE ARRENDAMIENTO DE VIVIENDA</h3>
       <p className="pt-4 text-end">En <span>text</span>, a <span>text</span></p>
       
